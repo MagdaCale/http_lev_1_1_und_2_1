@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    margin: 5vh;
+    text-align: center;
+    font-family: sans-serif;
+    background: rgb(255, 238, 0);
+}
+
+h1 {
+    font-family: impact;
+    font-size: 10em;
+    color: deeppink;
+}
+a{
+    text-decoration: none;
+    color: deeppink;
+    font-size: 1.5em;
+    padding: 15px;
+}
